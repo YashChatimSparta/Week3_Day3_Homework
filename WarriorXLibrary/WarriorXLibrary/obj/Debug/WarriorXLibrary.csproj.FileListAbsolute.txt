@@ -1,0 +1,4 @@
+C:\Users\Yash Chatim\Engineering45\week3\Day3\gameWeek3Day3\WarriorXLibrary\WarriorXLibrary\bin\Debug\WarriorXLibrary.dll
+C:\Users\Yash Chatim\Engineering45\week3\Day3\gameWeek3Day3\WarriorXLibrary\WarriorXLibrary\bin\Debug\WarriorXLibrary.pdb
+C:\Users\Yash Chatim\Engineering45\week3\Day3\gameWeek3Day3\WarriorXLibrary\WarriorXLibrary\obj\Debug\WarriorXLibrary.dll
+C:\Users\Yash Chatim\Engineering45\week3\Day3\gameWeek3Day3\WarriorXLibrary\WarriorXLibrary\obj\Debug\WarriorXLibrary.pdb
